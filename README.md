@@ -15,7 +15,7 @@ This repository hosts the **locked reproducibility archive** and documentation f
 ## Status
 
 - Manuscript: final submission / copyright completed **2026-09-07**
-- Reproducibility archive: published below (SHA-256 verified)
+- Reproducibility archive: published (SHA-256 verified)
 - Zenodo DOI: to be minted for IEEE data-repository correction (separate from the earlier unpublished VQNN scaling DOI)
 
 ## Related (superseded exploratory work)
