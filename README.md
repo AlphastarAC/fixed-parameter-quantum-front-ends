@@ -25,3 +25,10 @@ Earlier unpublished VQNN scaling artifacts (Access-2026-11164, **not accepted**)
 ## Contact
 
 junghongmin13@gmail.com
+
+## Reproducibility archive
+
+- File: [rchive/Supplementary_Reproducibility_Access_2026_25509.zip](archive/Supplementary_Reproducibility_Access_2026_25509.zip)
+- SHA-256: `5031752e8af745bb8ad28976c5f39b357711e20ee6a052fbcf163c2999d2c679`
+- Published **unmodified** relative to the locked submission package.
+
